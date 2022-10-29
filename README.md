@@ -10,7 +10,7 @@ I've been coding for past 1.5 years. I started my development journey from HTML 
 ✉️  You can contact me at sahilgala1234@gmail.com  
 
 🤝  I'm open to collaborating on Interesting Projects  
-
+<br />
 <!--  --!>
 #Skills
 C Javascript HTML5 React CSS NodeJS Python
