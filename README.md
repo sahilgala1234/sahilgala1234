@@ -4,9 +4,9 @@
 **sahilgala1234/sahilgala1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br />
 --!>
-#Web Developer  
+#Web Developer - MERN stack 
 <br />
-I've been coding for past 1.5 years. I started my development journey from HTML and CSS. I have worked on frontend frameworks like react and also explored backend development with node js and mongodb.  
+I've been coding for past 2 years. I started my development journey from HTML and CSS. I have worked on frontend frameworks like react and also explored backend development with node js and mongodb.  
 <br />
 🌍  I'm based in Mumbai, Maharashtra, India  
 <br />
@@ -17,7 +17,7 @@ I've been coding for past 1.5 years. I started my development journey from HTML 
 <!--  --!>
 # Skills
 <br />
-C Javascript HTML5 React CSS NodeJS Python
+C Cpp Javascript HTML5 React CSS NodeJS Python MongoDB Django
 
 
 
