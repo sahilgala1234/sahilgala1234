@@ -35,5 +35,6 @@ From mastering the art of frontend design with HTML and CSS along with React to 
 
 Feel free to explore my repositories, and let’s connect!
 
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/5dac9736-1476-457d-b79c-d1d36e8e513b" />
 
 
